@@ -1,0 +1,36 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'GeSnSe2'
+_cell_length_a                         4.59975
+_cell_length_b                         4.10877
+_cell_length_c                         20.00000
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Ge1        1.0     0.073676      0.702239      0.566519     Biso  1.000000 Ge
+   Sn1        1.0     0.593014      0.202185      0.427533     Biso  1.000000 Sn
+   Se1        1.0     0.164410      0.702217      0.439454     Biso  1.000000 Se
+   Se2        1.0     0.692470      0.202350      0.564036     Biso  1.000000 Se

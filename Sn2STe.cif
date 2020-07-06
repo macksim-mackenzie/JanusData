@@ -1,0 +1,36 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'Sn2STe'
+_cell_length_a                         4.76878
+_cell_length_b                         4.33467
+_cell_length_c                         20.00000
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Sn1        1.0     0.047204      0.707909      0.574650     Biso  1.000000 Sn
+   Sn2        1.0     0.626614      0.207843      0.431531     Biso  1.000000 Sn
+   Te1        1.0     0.172726      0.707769      0.428623     Biso  1.000000 Te
+   S1         1.0     0.682640      0.207881      0.562289     Biso  1.000000 S

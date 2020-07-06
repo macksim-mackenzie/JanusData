@@ -1,0 +1,36 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'GeS-SnTe'
+_cell_length_a                         5.01029
+_cell_length_b                         4.10293
+_cell_length_c                         20.00000
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Ge1        1.0     0.026482      0.706845      0.570086     Biso  1.000000 Ge
+   S1         1.0     0.713938      0.206761      0.561260     Biso  1.000000 S
+   Sn1        1.0     0.610998      0.206941      0.432368     Biso  1.000000 Sn
+   Te1        1.0     0.175673      0.706964      0.435252     Biso  1.000000 Te
